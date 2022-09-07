@@ -1,0 +1,14 @@
+* {
+ background-color:#1A2238;
+ color:#F4DB7D;
+ font-family: 'Courier New', Courier, monospace;
+}
+
+.nav-link {
+
+ background-color: white;
+}
+
+.activeLink {
+ border-bottom: 2px solid #FF6A3D;
+}
